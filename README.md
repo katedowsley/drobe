@@ -1,7 +1,4 @@
 # Project Planning
-
-
-
 - database of clothing items with info about each
   - sort and search
   - weather info
@@ -22,3 +19,6 @@
 1. Clone the repository
 2. npm install
 3. npm run dev
+
+# Hosting
+Database is hosted by Supabase
