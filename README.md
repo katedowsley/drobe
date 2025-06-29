@@ -17,3 +17,8 @@
   - create outfits based on filters (weather, clothing type)
   - save outfit combinations
   
+
+# Setup
+1. Clone the repository
+2. npm install
+3. npm run dev
