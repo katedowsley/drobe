@@ -39,7 +39,8 @@ function App() {
       next: updateIdx(direction, imageIndex.next, imageList.length)
     }));
   };
-
+//  TODO: rotate edge images
+// TODO: handle cases with fewer than 3 images in imageList
   
 
   return (
